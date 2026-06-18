@@ -1,0 +1,18 @@
+{
+    "name": "faraji/weather-app",
+    "description": "CLI weather app",
+    "require": {
+        "guzzlehttp/guzzle": "^7.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Faraji\\WeatherApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faraji Ombonya",
+            "email": "farajiombonya@gmail.com"
+        }
+    ]
+}
